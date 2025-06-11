@@ -15,4 +15,4 @@ Este projeto é uma calculadora simples em Python que calcula o preço final de 
 
 ## Autor
 
-Seu Nome
+RodrigoMM
